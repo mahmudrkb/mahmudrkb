@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudrkb&" alt="mahmudrkb" /></p>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudrkb&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+ <P><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudrkb&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> </P>
 
 
