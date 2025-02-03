@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rkbmahmudbd@gmail.com**
+- 📫 How to reach me **rakibmolla5265@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
