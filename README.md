@@ -1,5 +1,7 @@
-
-<img  src="https://i.ibb.co.com/wZ3X8GZF/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-4.png" alt="banner" style="width: 100%; height: 250px;"/>
+<div>
+ 
+</div>
+<img  src="https://i.ibb.co.com/wZ3X8GZF/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-4.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
