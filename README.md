@@ -1,5 +1,5 @@
 <div>
- <img  src="https://i.ibb.co.com/wZ3X8GZF/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-4.png" alt="banner"/>
+ <img  src="[https://i.ibb.co.com/wZ3X8GZF/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image-4.png](https://raw.githubusercontent.com/mahmudrkb/My-portfolio/refs/heads/main/src/assets/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image%20(4).png)" alt="banner"/>
 </div>
 
 
